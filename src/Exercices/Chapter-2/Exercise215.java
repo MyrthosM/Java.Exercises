@@ -3,11 +3,12 @@
 // This exercise will be using only whole numbers. If a floating point number is entered the program will crash.
 
 
-import java.util.Scanner;
+import java.util.Scanner; // Importing the library for obtaining user input
 
 public class Exercise215{
 	
 	public static void main (String [] args){
+		//Declaration and initzialization of the program variables.
 		int x = 0; // First Number entered.
 		int y = 0; // Second Number entered.
 		int z = 0; // Result.
